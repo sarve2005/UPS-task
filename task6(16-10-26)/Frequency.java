@@ -15,7 +15,7 @@ class Frequency {
                     visited[j] = true;
                 }
             }
-            System.out.println(str.charAt(i) + " = " + count);
+            System.out.println(str.charAt(i) + " = " +  count);
         }
     }
 }
